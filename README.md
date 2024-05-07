@@ -270,21 +270,22 @@ In the File Explorer click on "view" and then mark the check-boxes: "File name e
     * int
     * float
 * [Day 2 part 3](https://youtu.be/ry8oW36kyU4) - flow control: if, while, and break
-    * `git mv`
-    * `if` condition and `else`
-    * Check for equality `==`
-    * indentation
-    * 'lower()'
-    * `capitalize`
-    * built-in method,  parentheses `()`
-    * `while`
-    * `break`
-    * `Ctrl-C`
+    * 00:00 - `git mv`
+    * 06:25 - `if` condition 
+    * 08:38 - Check for equality `==`
+    * 09:24 - indentation
+    * 14:05 - `else` condition
+    * 18:28 - 'lower()'
+    * 22:00 - `capitalize`
+    * 24:25 - built-in method,  parentheses `()`
+    * 29:57 - `while loop`
+    * 34:05 - `break`
+    * 36:00 - `Ctrl-C`
     * 35:28 How to avoid the `break` (actualy the earlier solution using `break` is better)
-    * 41:15 DRY
+    * 41:20 DRY
     * 45:00 random
-    * docs.python.org
-    * `random.random`  `random.randrange`
+    * 45:52 - docs.python.org
+    * 50:30 - `random.random`  `random.randrange`
     * 56:40 why did you use `git mv` ?
 
 
